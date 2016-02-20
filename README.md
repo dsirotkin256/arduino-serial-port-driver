@@ -21,7 +21,7 @@ A simple implementation of client-server architecture application with Node.js, 
 + [Browserify](https://github.com/substack/node-browserify)
 
 # Illustration
-![alt info](https://raw.githubusercontent.com/nrdwnd/Remote-Control-Arduino-Node.js/master/.readme_material/led.jpeg "Client turns on blue light :)")
+<img src="https://raw.githubusercontent.com/nrdwnd/Remote-Control-Arduino-Node.js/master/.readme_material/led.jpeg" alt="Drawing" height="400"/>
 
 # Bugs and Feedback
 For bugs, questions and discussions please use the [issues](https://github.com/nrdwnd/Remote-Control-Arduino-Node.js/issues).
