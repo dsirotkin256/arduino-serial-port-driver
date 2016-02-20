@@ -20,6 +20,7 @@ A simple implementation of client-server architecture application with Node.js, 
 + [Serialport](https://github.com/voodootikigod/node-serialport)
 + [Browserify](https://github.com/substack/node-browserify)
 
+# Illustration
 ![alt info](https://raw.githubusercontent.com/nrdwnd/Remote-Control-Arduino-Node.js/master/.readme_material/led.jpeg "Client turns on blue light :)")
 
 # Bugs and Feedback
