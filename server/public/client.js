@@ -13,7 +13,7 @@ button.addEventListener("mouseup", turnOffLight);
 
 var interval;
 
-function turnOnLight() {
+var turnOnLight = function() {
 	isMouseDown = true;
 	console.log("Turn on light emitted");
 	socket.emit(command.client.blue_light_set_value, 
@@ -25,7 +25,7 @@ function turnOnLight() {
 	}, 60);
 }
 
-function turnOffLight() {
+var turnOffLight = function() {
 	isMouseDown = false;
 	window.clearInterval(interval);
 	console.log("Turn off light emitted");
