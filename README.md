@@ -3,8 +3,9 @@ A simple implementation of client-server architecture application with Node.js, 
 
 ### Hardware requirements:
 + Arduino Uno
-+ IO pluggable devices (*e.g. LED, Buttons, Servo Motors, LCD Screens, Cameras, etc.*)
- 
++ LED
++ Button (*Optional*)
+
 ### Software requirements:
 
 ###### Hardware specific 
