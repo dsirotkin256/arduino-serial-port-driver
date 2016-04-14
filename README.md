@@ -1,4 +1,4 @@
-# LED Control From Browser with use of Arduino and Node.js
+# LED Control From Browser with an usage of Arduino and Node.js
 A simple implementation of client-server architecture application with Node.js, Socket.io and Arduino Uno board.
 
 ### Hardware requirements:
