@@ -1,4 +1,4 @@
-# Remote-Control-Arduino-Node.js
+# LED Control From Brawser with use of Arduino and Node.js
 A simple implementation of client-server architecture application with Node.js, Socket.io and Arduino Uno board.
 
 ### Hardware requirements:
