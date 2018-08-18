@@ -76,7 +76,7 @@ void serialEvent() {
 	while(Serial.available()) {
 		char input = (char)Serial.read();
 		if (input == CMD_END) isEnd = true;
-    if (!isEnd) cmd += input;
+		if (!isEnd) cmd += input;
 	}
 }
 
