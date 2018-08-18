@@ -57,8 +57,9 @@ void setup() {
 	cmds.push_back(release_button);
 }
 
+// Event loop
 void loop() {
-// Listen for physical interaction
+// Puts the server socket in a passive mode, where it waits for the client to approach the server to make a connection
   button->listen();
 // Execute remote command
   if (isEnd) { 
